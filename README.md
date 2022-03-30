@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jowkenji
 - 👀 I’m interested in engineering, technology, sports, woodworking
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...projects that could help people to change the world
+- 🌱 I’m currently learning Pyhton and JavaScript
+- 💞️ I’m looking to collaborate on projects that could help people to change the world
 - 📫 How to reach me jj_kenji@hotmail.com
 
 <!---
